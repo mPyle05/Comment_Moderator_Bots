@@ -1,5 +1,3 @@
-Here's a clear GitHub README.md in markdown format for this script:
-
 ---
 
 # Instagram Hate Speech Detection and Comment Moderation
