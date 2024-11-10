@@ -23,7 +23,8 @@ By automating the detection and removal of hate speech, the bot helps users main
 This project was built by our team using the following technologies:
 - **Python** as the main programming language.
 - **instagrapi** library to interact with Instagram’s API, retrieve posts and comments, and delete comments.
-           -**PRAW Reddit API Wrapper** used for the subreddit bot build.
+
+    -**PRAW Reddit API Wrapper** used for the subreddit bot build.
 - **Hugging Face’s transformers** for natural language processing, specifically the **facebook/roberta-hate-speech-dynabench-r4-target** model, which classifies text as either **safe** or **hate speech**.
   
 ### Development Process:
