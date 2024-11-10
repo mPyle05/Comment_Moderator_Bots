@@ -114,7 +114,4 @@ for submission in subreddit.hot(limit=10):
 - Each comment is classified, and any hate speech is flagged.
 - **Deletes flagged comments** in the subreddit.
 - Pauses for 10 seconds between actions to avoid rate limits.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 ---
