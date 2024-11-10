@@ -1,6 +1,6 @@
 # About the Project
 
-The **Instagram Hate Speech Detection Bot** was developed by our team to tackle **online harassment** and **discrimination** on social media platforms, particularly Instagram. By leveraging the power of AI, this bot automatically detects and removes hate speech from Instagram comments, creating a safer and more inclusive space for users. This project was developed concurrently with a similar bot for **Reddit**, expanding our efforts to combat harmful content across multiple platforms.
+The **Hate Speech Detection Bot** was developed by our team to tackle **online harassment** and **discrimination** on social media platforms, particularly Instagram. By leveraging the power of AI, this bot automatically detects and removes hate speech from Instagram comments, creating a safer and more inclusive space for users. This project was developed concurrently with a similar bot for **Reddit**, expanding our efforts to combat harmful content across multiple platforms.
 
 ## Inspiration
 
