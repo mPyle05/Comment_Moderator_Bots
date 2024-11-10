@@ -10,7 +10,7 @@ Our goal was to create a tool that could **empower users** and **community moder
 
 ## What it does
 
-The Instagram Hate Speech Detection Bot:
+[The Instagram Hate Speech Detection Bot:](./README_InstagramBot.md)
 - **Logs into Instagram** and retrieves a user’s most recent posts and associated comments.
 - **Scans the comments** using a pre-trained natural language processing (NLP) model to detect **hate speech**.
 - **Deletes harmful comments** flagged by the AI model to ensure the post remains respectful and inclusive.
