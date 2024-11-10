@@ -1,10 +1,10 @@
 # About the Project
 
-The **Hate Speech Detection Bot** was developed by our team to tackle **online harassment** and **discrimination** on social media platforms, particularly Instagram. By leveraging the power of AI, this bot automatically detects and removes hate speech from Instagram comments, creating a safer and more inclusive space for users. This project was developed concurrently with a similar bot for **Reddit**, expanding our efforts to combat harmful content across multiple platforms.
+The **Hate Speech Detection Bot** was developed by our team to tackle **online harassment** and **discrimination** on social media platforms, particularly Instagram. By leveraging the power of AI, this bot automatically detects and removes hate speech from Instagram comments, creating a safer and more inclusive space for users. This project inludes a Comment-moderating bot for both **Reddit** and **Instagram**, expanding our efforts to combat harmful content across multiple platforms.
 
 ## Inspiration
 
-The inspiration behind this project came from the increasing prevalence of **hate speech** and **cyberbullying** on social media platforms. As platforms like Instagram have grown, it has become more challenging for moderators to effectively manage harmful content. We saw the impact of our **Reddit bot** in automating the moderation of hate speech within subreddits, and we realized that a similar solution could make a difference on Instagram.
+The inspiration behind this project came from the increasing prevalence of **hate speech** and **cyberbullying** on social media platforms. As platforms like Instagram have grown, it has become more challenging for moderators to effectively manage harmful content. Users 
 
 Our goal was to create a tool that could **empower users** and **community moderators** to protect their online spaces from abusive content without the need for constant manual oversight. The vision was to use technology to fight back against hate speech and **discrimination**, promoting safer interactions online.
 
@@ -52,7 +52,7 @@ Building and deploying the bot came with several challenges:
 - **Ethical AI Implementation**: We learned a great deal about how AI can be used for **social good**, and the importance of continually refining models to ensure they do not inadvertently censor content or misinterpret context.
 - **User-Centered Design**: We understood the importance of designing technology that is **accessible and beneficial** for users—creating tools that directly address real-world problems, like online harassment, in a way that is intuitive and helpful.
 
-## What's next for Untitled
+## What's Next
 
 Moving forward, our team plans to:
 - **Expand to Other Platforms**: We aim to adapt the bot for additional social media platforms, such as **Twitter** and **Facebook**, to help tackle hate speech and discrimination in more online communities.
