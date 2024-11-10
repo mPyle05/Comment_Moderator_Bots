@@ -1,4 +1,4 @@
-```
+---
 # Reddit Hate Speech Detection Bot
 
 This script uses the `praw` and `transformers` libraries to detect and moderate hate speech in Reddit comments within a specified subreddit. It leverages a pretrained hate speech model to automatically flag and delete offensive comments from recent posts in the subreddit at a user-defined time interval.
@@ -117,4 +117,4 @@ for submission in subreddit.hot(limit=10):
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
-```
+---
