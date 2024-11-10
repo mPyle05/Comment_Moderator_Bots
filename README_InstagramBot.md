@@ -131,8 +131,4 @@ while True:
 - Each comment is classified, and any hate speech is flagged.
 - **Deletes flagged comments** in bulk for each media post.
 - Pauses based on the user-defined interval.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
 ---
