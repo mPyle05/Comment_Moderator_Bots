@@ -4,7 +4,7 @@ The **Hate Speech Detection Bot** was developed by our team to tackle **online h
 
 ## Inspiration
 
-The inspiration behind this project came from the increasing prevalence of **hate speech** and **cyberbullying** on social media platforms. As platforms like Instagram have grown, it has become more challenging for moderators to effectively manage harmful content. Users 
+The inspiration behind this project came from the increasing prevalence of **hate speech** and **cyberbullying** on social media platforms. As platforms like Instagram have grown, it has become more challenging for moderators to effectively manage harmful content.  
 
 Our goal was to create a tool that could **empower users** and **community moderators** to protect their online spaces from abusive content without the need for constant manual oversight. The vision was to use technology to fight back against hate speech and **discrimination**, promoting safer interactions online.
 
