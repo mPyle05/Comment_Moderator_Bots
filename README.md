@@ -23,10 +23,11 @@ By automating the detection and removal of hate speech, the bot helps users main
 This project was built by our team using the following technologies:
 - **Python** as the main programming language.
 - **instagrapi** library to interact with Instagram’s API, retrieve posts and comments, and delete comments.
+    -**PRAW Reddit API Wrapper** used for the subreddit bot build.
 - **Hugging Face’s transformers** for natural language processing, specifically the **facebook/roberta-hate-speech-dynabench-r4-target** model, which classifies text as either **safe** or **hate speech**.
   
 ### Development Process:
-1. **Login and Authentication**: We used the instagrapi library to authenticate the bot using Instagram credentials and retrieve the necessary data (user media and comments).
+1. **Login and Authentication**: We used the instagrapi library to authenticate the bot using Instagram credentials and retrieve the necessary data (user media and comments); The Reddit bot was created by creating a subreddit with the bot as a moderator, and then using the built-in functions of the API for the later steps in the development process.
 2. **Content Scanning**: After fetching recent comments, we passed the text to the pre-trained AI model to classify the comments into categories such as "safe" or "hate".
 3. **Comment Deletion**: If the AI flagged a comment as hate speech, the bot would automatically remove it using the API, ensuring a swift response to harmful content.
 4. **Automation**: The bot runs in an infinite loop, periodically checking for new comments and cleaning them up without human intervention.
