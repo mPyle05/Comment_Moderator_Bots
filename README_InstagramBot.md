@@ -19,7 +19,7 @@ This script uses the `instagrapi` and `transformers` libraries to detect and mod
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/instagram-hate-speech-bot.git
+   git clone https://github.com/mPyle05/Hate-Speech-Detection-Bots.git
    cd instagram-hate-speech-bot
    ```
 
